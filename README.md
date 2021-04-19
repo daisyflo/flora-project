@@ -1,3 +1,4 @@
+Project 1
 I have successfully deploy a LAMP Stack Website in AWS Cloud, And the steps i took while on this project is;
 Step 1 — Installing Apache and Updating the Firewall
 ![image](https://user-images.githubusercontent.com/76633534/115258165-a68db280-a128-11eb-9c8a-f5a706ad616c.png)
